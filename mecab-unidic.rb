@@ -3,7 +3,7 @@ require 'formula'
 class MecabUnidic < Formula
   homepage 'http://sourceforge.jp/projects/unidic/'
   url 'http://sourceforge.jp/frs/redir.php?m=jaist&f=%2Funidic%2F58338%2Funidic-mecab_kana-accent-2.1.2_src.zip'
-  md5 'd927e2d700754288207c8a587d192da0'
+  sha1 'a5e592e1007b831297bcac653cac60c5d6f78fd6'
 
   depends_on 'mecab'
 
